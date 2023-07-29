@@ -1,4 +1,4 @@
-# ChatBot-Flask_DialogGPT
+# NeuroBot Flask
 
 Это простой чат-бот, созданный с помощью Flask и DialoGPT на Python.
 
